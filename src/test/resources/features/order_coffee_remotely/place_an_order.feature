@@ -10,7 +10,5 @@ Feature: Place an order
 
   Scenario: Buyer orders a coffee
     Given Cathy has a Caffeinate-Me account
-    When she orders a large cappuccino
-    Then Barry should receive the order
-
-
+    When she orders a large capuccino
+    Then Barry should recieve the order

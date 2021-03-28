@@ -1,5 +1,5 @@
 package caffeinateme;
 
 public enum Urgency {
-    Normal, High, Urgent
+    Normal,High,Urgent
 }
